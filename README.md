@@ -1,4 +1,1 @@
-# cypress-conduit-tags
-
-> An example test for [Cypress Network Testing Course](https://cypress.tips/courses/network-testing)
-# cypress-conduit-tags
+From Gleb's https://cypress.tips/courses/network-testing/lessons/bonus67, nice showcase of cypress-map.
