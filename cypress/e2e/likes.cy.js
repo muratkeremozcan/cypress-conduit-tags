@@ -34,6 +34,7 @@ it('confirms the number of likes on each article', () => {
     // .then((articles) => _.map(articles, (a) => a.favoritesCount)) // lodash version
     // .then(map((a) => a.favoritesCount)) // ramda version
     // .then(map(prop('favoritesCount'))) // ramda short version
+    // .then(pluck('favoritesCount')) // ramda shorter version
     // .map((a) => a.favoritesCount) // cypress-map long version
     .map('favoritesCount') // cypress-map short better
     // .print() // Number[]
